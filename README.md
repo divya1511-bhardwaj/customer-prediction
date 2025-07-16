@@ -11,8 +11,7 @@ It includes:
 
 ## 🚀 Live Demo
 
-( https://divya1511-bhardwaj-customer-prediction-app-uwmowy.streamlit.app/ )
-
+( https://divya1511-bhardwaj-customer-prediction-app-cm3xrd.streamlit.app/)
 ---
 
 
